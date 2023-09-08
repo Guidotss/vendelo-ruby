@@ -1,0 +1,11 @@
+# Read about fixtures at https://api.rubyonrails.org/classes/ActiveRecord/FixtureSet.html
+
+ps4:
+  title: PS4 Fat
+  description: PS4 Fat 500GB
+  price: 180
+
+switch:
+  title: Nintendo Switch
+  description: Le falla el joycon izquierdo
+  price: 190
